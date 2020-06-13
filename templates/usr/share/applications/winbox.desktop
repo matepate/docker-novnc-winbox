@@ -7,7 +7,7 @@ Icon=winbox
 Terminal=false
 Type=Application
 StartupNotify=true
-StartupWMClass=winbox.exe
+StartupWMClass=winbox64.exe
 Categories=Network;RemoteAccess;
 Keywords=winbox;mikrotik;
 
@@ -21,7 +21,7 @@ Command=/opt/winbox/winbox64.sh
 Autostart=True
 
 [Openbox Entry]
-Title=Winbox 64
+Name=winbox64.exe
 FullScreen=yes
 ShowLauncher=yes
 Layer=above
